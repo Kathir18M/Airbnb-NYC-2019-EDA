@@ -1,0 +1,11 @@
+AIRBNB NYC 2019 - EXECUTIVE BUSINESS INSIGHTS
+============================================================
+1. Total Analyzed Listings: 48,884 across 37,455 unique hosts.
+2. Primary Market Concentration: Manhattan leads with 21,660 listings (44.3% share).
+3. Dominant Room Type: Entire home/apt accounting for 52.0% of total supply.
+4. Pricing Benchmark: Overall median price is $106.00/night. Mean price is $152.76/night.
+5. Highest Average Price Borough: Manhattan at $196.88/night.
+6. Top Neighbourhood by Volume: Williamsburg with 3,919 active listings.
+7. Review Engagement: 1,137,628 cumulative reviews recorded. 10,051 listings (20.6%) have zero reviews.
+8. Commercial Operator Impact: Top commercial host (ID 219517861 - 'Sonder (NYC)') operates 327 properties with an average rate of $253.20.
+============================================================
